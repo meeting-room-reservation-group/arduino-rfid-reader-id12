@@ -7,7 +7,7 @@ Current code os based on
 [Code for the Innovations ID-12 RFID tag reader](http://playground.arduino.cc/Code/ID12)
 
 
-## Some RDID card IDs:
+## Some RFID card IDs:
 
 	3C 00 CE 75 4C CB	
 
